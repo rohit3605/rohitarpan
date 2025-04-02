@@ -1,1 +1,11 @@
+streamlit
 mysql-connector-python
+sqlite3
+pyserial
+tensorflow
+numpy
+pandas
+opencv-python-headless
+pyttsx3
+twilio
+
